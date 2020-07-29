@@ -1,0 +1,6 @@
+framework module Pods_FFmpegExample {
+  umbrella header "Pods-FFmpegExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
